@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<h4 align="left">📚 I’m currently a senior at the University Of Central Florida<br><br>💬 Ask me: about Software Engineering • Finance & Crypto • Fitness & Training<br><br>📫 How to reach me: Muniz.kevin@outlook.com<br><br>💪 Fun fact: I lift and run every day</h4>
+<h4 align="left">📚 I’m currently a senior at the University Of Central Florida<br><br>💬 Ask me about: Software Engineering • Finance & Crypto • Fitness & Training<br><br>📫 How to reach me: Muniz.kevin@outlook.com<br><br>💪 Fun fact: I lift and run every day</h4>
 
 
 <h2 align="left">Languages and Tools</h2>
